@@ -1,0 +1,16 @@
+resultado consulta1
+----------------------------
+ID_EMPLOYEE,NAM_EMPLOYEE,ID_DEPARTMENT
+1001,Alicia Gomez,10
+1002,Juan Martínez,20
+
+
+
+
+
+resultado consulta2
+----------------------------
+NAM_EMPLOYEE,NAM_PROJECT
+Alicia Gomez,SAP Migration
+Juan Martínez,Customer Portal
+Alicia Gomez,Customer Portal
