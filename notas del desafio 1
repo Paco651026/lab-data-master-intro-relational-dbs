@@ -1,16 +1,16 @@
-1. ¿Qué información parece repetirse?
+##1. ¿Qué información parece repetirse?
 Observación: Se detecta redundancia de datos en todas las columnas del conjunto actual.
 
-2. ¿Qué datos podrían separarse en distintas tablas?
+##2. ¿Qué datos podrían separarse en distintas tablas?
 Para normalizar la base de datos, se propone la creación de tablas independientes para: 
   * EMPLEADOS: (Nombre y otros datos personales). 
   * DEPARTAMENTOS: (Nombres de departamentos). 
   * PROYECTOS: (Nombres y detalles de proyectos).
 
-3. ¿Qué columnas podrían servir como identificadoEAres únicos?
+##3. ¿Qué columnas podrían servir como identificadoEAres únicos?
   ID_EMPLEADO en la tabla EMPLEADO
   ID_PROYECTO en la tabla PROYECTO
   ID_DEPARTAMENTO en la tabala DEPARTAMENTO
 
-  4. ¿Qué relaciones ves entre los datos?
+##4. ¿Qué relaciones ves entre los datos?
     Existen varias, una por tabla
